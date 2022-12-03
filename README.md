@@ -26,6 +26,9 @@ This project is licensed under the MIT license.
 
 
 ## Description
+
+https://user-images.githubusercontent.com/108027282/205464926-766a90a1-f100-4ea8-b652-ffc7491cb7fc.mp4
+
 A simple CLI program to create a professional README. This README was created using this app!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
