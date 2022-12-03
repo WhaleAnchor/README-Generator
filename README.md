@@ -15,20 +15,26 @@
   </ol>
 </details>
 
-# teacher's pet
-![GitHub license](https://img.shields.io/badge/license-GPL3.0-blue.svg)
+# README-Generator
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+* [License](#license)
+
+## License
+
+This project is licensed under the MIT license.
 
 
 ## Description
-app for teachers and parents
+A simple CLI program to create a professional README. This README was created using this app!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Link To the Project
-* [teacher's pet](https://github.com/whaleanchor/teachers_pet/)
+* [README-Generator](https://github.com/WhaleAnchor/README-Generator/)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Usage
-usage repo
+This repo is public. You can download it and use it however you'd like!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Installation
@@ -43,21 +49,21 @@ npm i
 This is the command to run tests:
 
 ```
-npm test
+there is no test :(
 ```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contributing
-dont contribute
+If you would like to contribute to the repo, please submit a pull request, or just contact me.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Future Development
-future dev
+Not as of yet, but if you have any suggestions, please email me!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 ## Contact
 Any questions or concerns, don't hesitate to contact me at andrewsungwoochoi@gmail.com. 
-You can look at more of my work here [https://github.com/whaleanchor](https://github.com/whaleanchor/).
+You can look at more of my work here [https://github.com/WhaleAnchor](https://github.com/WhaleAnchor/).
 <p align="right">(<a href="#top">back to top</a>)</p>
